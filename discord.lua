@@ -1,3 +1,4 @@
+-- Function to make the script work
 Citizen.CreateThread(function()
     while true do
         local player = GetPlayerPed(-1)
